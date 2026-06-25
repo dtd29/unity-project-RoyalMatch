@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9c46cb2bd452e4749923421a0bc2c295
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118057
+  packageName: Game 2D Water Kit
+  packageVersion: 1.4.8
+  assetPath: Assets/Game2DWaterKit/Documentation/Water System Guide.pdf
+  uploadId: 830746
